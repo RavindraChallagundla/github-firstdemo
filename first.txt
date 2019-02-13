@@ -1,0 +1,1 @@
+Creating first file in from git CLI
